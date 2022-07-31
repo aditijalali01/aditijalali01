@@ -1,33 +1,32 @@
-### Hi there 👋, my name is aditi jalali
-#### I am CSE student and a full stack devloper
-![I am CSE student and a full stack devloper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h1 align="center">Hi 👋, I'm aditi jalali</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-A computer science engineering student with a great skill set.
-I have a expert skill set in cpp and front end development.
-ui and ux are my speciality as well as creating backend architecture.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditijalali01&label=Profile%20views&color=0e75b6&style=flat" alt="aditijalali01" /> </p>
 
-Skills: NODEJS / REACT / JS / HTML / CSS/ CPP/ MONGO DB
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditijalali01" alt="aditijalali01" /></a> </p>
 
-- 🔭 I’m currently working on Dapp and smart contract creation 
-- 🌱 I’m currently learning solidity and token creation  
-- 💬 Ask me about anything [here](https://instagram.com/adihihihihii?igshid=YmMyMTA2M2Y=) 
-- 📫 How to reach me: aditijalali01@gmail.com 
-- 😄 Pronouns: ADI 
-- ⚡ Fun fact: I love sad songs 
+- 🔭 I’m currently working on **Dapp and smart contract creation**
 
+- 🌱 I’m currently learning **solidity and token creation**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/aditijalali01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/adihihihihii?igshid=YmMyMTA2M2Y=/)  
+- 👨‍💻 All of my projects are available at [https://github.com/aditijalali01](https://github.com/aditijalali01)
 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+- 💬 Ask me about **anything [here](https://instagram.com/adihihihihii?igshid=YmMyMTA2M2Y=)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/aditijalali01)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **aditijalali01@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/aditijalali01&show_icons=true)  
+- ⚡ Fun fact **I love sad songs**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/aditijalali01)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/https://instagram.com/adihihihihii?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/adihihihihii?igshid=ymmymta2m2y=" height="30" width="40" /></a>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/aditijalali01)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/aditijalali01)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditijalali01&show_icons=true&locale=en&layout=compact" alt="aditijalali01" /></p>
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/aditijalali01)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditijalali01&show_icons=true&locale=en" alt="aditijalali01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditijalali01&" alt="aditijalali01" /></p>
