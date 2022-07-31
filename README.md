@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I love sad songs**
 
 <h3 align="left">Connect with me:</h3>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aditijalali01) 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='https://github.com/aditijalali01' height='40'>
 <p align="left">
 <a href="https://instagram.com/https://instagram.com/adihihihihii?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/adihihihihii?igshid=ymmymta2m2y=" height="30" width="40" /></a>
 </p>
