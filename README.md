@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aditijalali01@gmail.com**
 
-- ⚡ Fun fact **I love sad songs**
+- ⚡ Hobbies **I love Singing, Playing Basketball **
 
 <h3 align="left">Connect with me:</h3>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='https://github.com/aditijalali01' height='40'>
